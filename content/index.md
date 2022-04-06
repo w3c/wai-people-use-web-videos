@@ -19,9 +19,9 @@ last_updated: 2021-@@-@@   # Put the date of this translation YYYY-MM-DD (with m
 # - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
 
 github:
-  repository: w3c/wai-resource-template
+  repository: w3c/wai-people-use-web-videos
   path: content/index.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
-permalink: /link/to/page/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+permalink: /people-use-web/videos/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
 
 # NEW: 3 navigation lines below are only needed for multi-page resources where you have previous and next at the bottom. If so, un-comment them; otherwise delete these lines.
 # navigation:
@@ -29,7 +29,7 @@ permalink: /link/to/page/   # Add the language shortcode to the end, with no sla
   # next: /path/to/next/file/
 # @@SLH To Do: figure out if need to add lang here, too, and if this replaces "order" from older resources?
 
-ref: /link/to/page/   # Translators, do not change this
+ref: /people-use-web/videos/   # Translators, do not change this
 changelog: /@@/changelog/
 acknowledgements: /@@/acknowledgements/  # NEW: delete if don"t have a separate acknowledgements page. And delete it in the footer below.
 license: creative-commons   # NEW: delete if not creative-commons
@@ -80,8 +80,8 @@ Here is some **bold text**
 Here is some _italic text_
 
 **Link markdown template in markdown**:
-* [[Exact Title of Page on WAI website]](/permalink/to/page/)
-* [WAI website but not exact title](/permalink/to/page/)
+* [[Exact Title of Page on WAI website]](/people-use-web/videos/)
+* [WAI website but not exact title](/people-use-web/videos/)
 * [link off WAI website](https://example.com)
 
 Description of link markdown:
