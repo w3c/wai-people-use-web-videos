@@ -7,9 +7,9 @@ last_updated: 2022-04-14   # Put the date of this translation YYYY-MM-DD (with m
 github:
   repository: w3c/wai-people-use-web-videos
   path: content/index.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
-permalink: /people-use-web/videos/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+permalink: /people-use-web/videos/stories/martine/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
 
-ref: /people-use-web/videos/   # Translators, do not change this
+ref: /people-use-web/videos/stories/martine/   # Translators, do not change this
 
 description: draft video scripts for Martine from the WAI resource "How People with Disabilities Use the Web"
 
@@ -18,7 +18,7 @@ footer: >
 
 ---
 
-**[Back to Index Page](../)**
+**[Back to Index Page](../../)**
 
 Video script for [Martine](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/user-stories-six/) from the page [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version):
 
