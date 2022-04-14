@@ -1,5 +1,5 @@
 ---
-title: "Videos for How People with Disabilities Use the Web"
+title: "Video Scripts for How People with Disabilities Use the Web"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2022-04-14   # Put the date of this translation YYYY-MM-DD (with month in the middle)
