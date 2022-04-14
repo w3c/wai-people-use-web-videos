@@ -1,5 +1,5 @@
 ---
-title: "Video for Martine"
+title: "Video Script for Martine"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2022-04-14   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -18,9 +18,11 @@ footer: >
 
 ---
 
-**[Back to Index Page](../../)**  **[Submit an Issue](https://github.com/w3c/wai-people-use-web-videos/issues/new?title=[Martine])**
+**[Back to Index Page](../../)**
 
 Video script for [Martine](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/user-stories-six/) from the page [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version).
+
+**[Submit an Issue](https://github.com/w3c/wai-people-use-web-videos/issues/new?title=[Martine])**
 
 ## Summary
 
