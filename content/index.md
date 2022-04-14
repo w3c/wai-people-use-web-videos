@@ -2,7 +2,7 @@
 title: "Videos for How People with Disabilities Use the Web"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-04-14   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-04-14   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 github:
   repository: w3c/wai-people-use-web-videos
@@ -48,7 +48,7 @@ Video scripts for the page [Stories of Web Users](https://www.w3.org/WAI/people-
 * Ilya
 * Lee
 * Luis
-* Martine
+* [Martine](stories/martine)
 * Noor
 * Preety
 * Yun
