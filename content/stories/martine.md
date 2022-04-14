@@ -18,9 +18,11 @@ footer: >
 
 ---
 
-**[Back to Index Page](../../)**
+**[Back to Index Page](../../)**  **[Submit an Issue](https://github.com/w3c/wai-people-use-web-videos/issues/new?title=[Martine])**
 
-Video script for [Martine](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/user-stories-six/) from the page [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version):
+Video script for [Martine](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/user-stories-six/) from the page [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version).
+
+## Summary
 
 * Older adult
 * Female
@@ -32,6 +34,8 @@ Video script for [Martine](https://deploy-preview-113--wai-people-use-web.netlif
 * Student
 * Takes online courses
 * Watches video streaming
+
+## Script
 
 | Seq. | Time | Audio | Visual |
 | --- | --- | --- | --- |
