@@ -57,7 +57,7 @@ Video scripts for the page [Stories of Web Users](https://www.w3.org/WAI/people-
 Video scripts for the page [Diverse Abilities and Barriers](https://www.w3.org/WAI/people-use-web/abilities-barriers/) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version):
 
 * Diversity of abilities
-* Auditory
+* [Auditory](abilities/auditory)
 * Cognitive, learning, and neurological
 * Physical
 * Speech
