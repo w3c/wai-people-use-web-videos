@@ -2,7 +2,7 @@
 title: "Video Script for Martine"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-04-14   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-06-21   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 github:
   repository: w3c/wai-people-use-web-videos
@@ -14,13 +14,13 @@ ref: /people-use-web/videos/stories/martine/   # Translators, do not change this
 description: draft video scripts for Martine from the WAI resource "How People with Disabilities Use the Web"
 
 footer: >
-   <p><strong>Date:</strong> Updated 14 April 2022.</p>
+   <p><strong>Date:</strong> Updated 21 June 2022.</p>
 
 ---
 
 **[Back to Index Page](../../)**
 
-Video script for [Martine](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/user-stories-six/) from the page [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version).
+Video script for [Martine](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/user-stories-six/) from the page [Stories of Web Users]([https://www.w3.org/WAI/people-use-web/user-stories/](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/user-stories/)) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version).
 
 **[Submit an Issue](https://github.com/w3c/wai-people-use-web-videos/issues/new?title=[Martine])**
 
