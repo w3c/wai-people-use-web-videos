@@ -2,7 +2,7 @@
 title: "Video Scripts for How People with Disabilities Use the Web"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-04-14   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-06-21   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 github:
   repository: w3c/wai-people-use-web-videos
@@ -14,7 +14,7 @@ ref: /people-use-web/videos/   # Translators, do not change this
 description: draft video scripts for the WAI resource "How People with Disabilities Use the Web"
 
 footer: >
-   <p><strong>Date:</strong> Updated 14 April 2022.</p>
+   <p><strong>Date:</strong> Updated 21 June 2022.</p>
 ---
 
 {::nomarkdown}
@@ -69,6 +69,6 @@ Video scripts for the page [Tools and Techniques](https://www.w3.org/WAI/people-
 
 * Tools and preferences
 * Perception - hearing, feeling, and seeing
-* Presentation distinguishing and understanding
+* [Presentation distinguishing and understanding](tools/presentation)
 * Input typing, writing, and clicking
 * Interaction navigating and finding
