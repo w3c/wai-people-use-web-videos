@@ -14,13 +14,13 @@ ref: /people-use-web/videos/abilities/auditory/   # Translators, do not change t
 description: draft video scripts for Auditory from the WAI resource "How People with Disabilities Use the Web"
 
 footer: >
-   <p><strong>Date:</strong> Updated 21 June 2022.</p>
+   <p><strong>Date:</strong> Updated 12 July 2022.</p>
 
 ---
 
 **[Back to Index Page](../../)**
 
-Video script for [Auditory](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/abilities-barriers-auditory/) from the page [Diverse Abilities and Barriers]([https://www.w3.org/WAI/people-use-web/abilities-barriers/](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/abilities-barriers/)) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version).
+Video script for [Auditory](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/abilities-barriers-auditory/) from the page [Diverse Abilities and Barriers](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/abilities-barriers/) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version).
 
 **[Submit an Issue](https://github.com/w3c/wai-people-use-web-videos/issues/new?title=[Auditory])**
 
