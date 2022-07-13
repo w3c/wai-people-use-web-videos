@@ -2,7 +2,7 @@
 title: "Video Script for Auditory"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-06-21   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-07-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 github:
   repository: w3c/wai-people-use-web-videos
@@ -14,7 +14,7 @@ ref: /people-use-web/videos/abilities/auditory/   # Translators, do not change t
 description: draft video scripts for Auditory from the WAI resource "How People with Disabilities Use the Web"
 
 footer: >
-   <p><strong>Date:</strong> Updated 12 July 2022.</p>
+   <p><strong>Date:</strong> Updated 13 July 2022.</p>
 
 ---
 
@@ -56,4 +56,4 @@ Video script for [Auditory](https://deploy-preview-113--wai-people-use-web.netli
 | 5 | 1:10 - 1:30 | High-quality foreground audio that is clearly distinguishable from background noise is also important for many people with auditory disabilities, with and without hearing aids. Volume controls to turn up the audio playing independently of other system sounds makes it easier for people to hear too. | [New scene.] We see a person (#3) watching a video and adjusting their hearing aid. We see the person (#3) adjust the volume of the video independently from other audio [we see a sound mixer widget with multiple volume sliders, and they adjust one of the volume sliders on the mixer]. |
 | 6 | 1:30 - 2:00 | While many people with auditory disabilities do not know sign language, for many people sign language is the primary language for communication. Sign language has a different grammar and vocabulary than spoken and written language, so some people might not be as fluent in reading and writing depending on the schooling they received. Sign language users rely on high-quality video transmissions for online communication. This includes the speed of their connection as well as the capability of the video device and software. | [New scene.] We see someone (#4) in an online meeting with sign language interpreters on the call. We see the sign language interpreters sign to the person (#4), and the person (#4) nodding/signing/gesturing back to signal acknowledgment to the interpreters. We see the person (#4) open an electronic document [maybe one sent in the online meeting app]; the document has large blocks of text (walls of text) without any structuring, and the person (#4) has difficulty reading it. We see the person (#4) turn their attention back to the sign language interpreters and maximize their window to communicate more easily with them. |
 | 7 | 2:00 - 2:40 | Finally, auditory disabilities also includes people who are deaf-blind. This involves varying degrees of auditory and visual disabilities at the same time. Most people who are deaf-blind rely on tactile means of communication. For example, screen readers and portable braille displays convert text on the computer to braille letters that can be felt on the finger tips. For multimedia, people who are deaf-blind rely on descriptive transcripts that they can read instead of watching a video. These include descriptions of the auditory as well as visual information in text format. | [New scene.] We see someone (#5) using a portable braille display to read what's on the screen. The person (#5) selects "read transcript" link beside a video. Zoom into the transcript, to show that there are captions as well as descriptions of the visual content [we can't really read all the text but the formatting makes it clear that there is text for the audio and visual content]. |
-| 8 | 2:40 - 2:45 | All these people have one thing in common: your design can include or exclude them. | [New scene.] We see a collage of the five protagonists from the previous scenes [in the same style and continuing the first scene] happily using computer technologies [each person's setting is a continuation of their respective scenes]. |
+| 8 | 2:40 - 2:45 | All this has one thing in common: your design can include or exclude people. | [New scene.] We see a collage of the five protagonists from the previous scenes [in the same style and continuing the first scene] happily using computer technologies [each person's setting is a continuation of their respective scenes]. |
