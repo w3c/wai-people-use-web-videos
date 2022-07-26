@@ -2,7 +2,7 @@
 title: "Video Script for Presentation"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-07-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-07-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 github:
   repository: w3c/wai-people-use-web-videos
@@ -14,7 +14,7 @@ ref: /people-use-web/videos/tools/presentation/   # Translators, do not change t
 description: draft video scripts for Presentation from the WAI resource "How People with Disabilities Use the Web"
 
 footer: >
-   <p><strong>Date:</strong> Updated 13 July 2022.</p>
+   <p><strong>Date:</strong> Updated 26 July 2022.</p>
 
 ---
 
@@ -36,10 +36,10 @@ Video script for [Presentation](https://deploy-preview-113--wai-people-use-web.n
   * Reading assistant with glossary, text simplification, and reading ruler
 * Focuses on the above techniques but features the following protagonists:
   * (#1/Yun) uses larger text (Yun will also be featured in the script for [Yun's story page](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/user-stories-nine/))
-  * (#2) uses screen magnification, high-contrast, and text-to-speech (this person will likely also be featrued in the script for [Visual page](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/abilities-barriers-visual/))
-  * (#3) uses hearing aid and increased audio volume (this person was featrued in the [Auditory script](https://wai-people-use-web-videos.netlify.app/people-use-web/videos/abilities/auditory/))
+  * (#2) uses screen magnification, high-contrast, and text-to-speech (this person will likely also be featured in the script for [Visual page](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/abilities-barriers-visual/))
+  * (#3) uses hearing aid and increased audio volume (this person was featured in the [Auditory script](https://wai-people-use-web-videos.netlify.app/people-use-web/videos/abilities/auditory/))
   * (#4/Preety) uses reading mode (Preety will also be featured in the script for [Preety's story page](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/user-stories-eight/))
-  * (#5) uses text customization (this person will likely also be featrued in the script for [Cognitive, learning, and neurological page](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/abilities-barriers-cognitive/))
+  * (#5) uses text customization (this person will likely also be featured in the script for [Cognitive, learning, and neurological page](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/abilities-barriers-cognitive/))
   * (#6/Luis) uses reading assistant (Luis will also be featured in the script for [Luis's story page](https://deploy-preview-113--wai-people-use-web.netlify.app/people-use-web/user-stories-five/))
 
 ## Script
