@@ -2,7 +2,7 @@
 title: "Video Script for Auditory"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-07-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-07-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 github:
   repository: w3c/wai-people-use-web-videos
@@ -14,7 +14,7 @@ ref: /people-use-web/videos/abilities/auditory/   # Translators, do not change t
 description: draft video scripts for Auditory from the WAI resource "How People with Disabilities Use the Web"
 
 footer: >
-   <p><strong>Date:</strong> Updated 13 July 2022.</p>
+   <p><strong>Date:</strong> Updated 26 July 2022.</p>
 
 ---
 
