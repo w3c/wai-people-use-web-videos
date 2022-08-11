@@ -68,7 +68,7 @@ Video scripts for the page [Diverse Abilities and Barriers](https://www.w3.org/W
 Video scripts for the page [Tools and Techniques](https://www.w3.org/WAI/people-use-web/tools-techniques/) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version):
 
 * Tools and preferences
-* Perception - hearing, feeling, and seeing
+* [Perception - hearing, feeling, and seeing](tools/perception)
 * [Presentation distinguishing and understanding](tools/presentation)
-* Input typing, writing, and clicking
-* Interaction navigating and finding
+* [Input typing, writing, and clicking](tools/input)
+* [Interaction navigating and finding](tools/navigation)
