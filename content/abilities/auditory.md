@@ -2,7 +2,7 @@
 title: "Video Script for Auditory"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-07-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-08-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 github:
   repository: w3c/wai-people-use-web-videos
@@ -14,7 +14,7 @@ ref: /people-use-web/videos/abilities/auditory/   # Translators, do not change t
 description: draft video scripts for Auditory from the WAI resource "How People with Disabilities Use the Web"
 
 footer: >
-   <p><strong>Date:</strong> Updated 26 July 2022.</p>
+   <p><strong>Date:</strong> Updated 15 August 2022.</p>
 
 ---
 
@@ -49,7 +49,7 @@ Video script for [Auditory](https://deploy-preview-113--wai-people-use-web.netli
 
 | Seq. | Time | Audio | Visual |
 | --- | --- | --- | --- |
-| 1 | 0:00 - 0:10 | There are many forms of auditory disabilities, including people who have reduced hearing, do not hear, or hear sounds differently. | We see a collage of five people going about their lives in their different settings [they are the protagonists that we will see in the coming scenes]. |
+| 1 | 0:00 - 0:10 | Auditory disabilities includes people who have reduced hearing, do not hear, or hear sounds differently. | We see a collage of five people going about their lives in their different settings [they are the protagonists that we will see in the coming scenes]. |
 | 2 | 0:10 - 0:25 | Some people use hearing aids or have cochlear implants to improve their hearing. However, these often don’t fully compensate for auditory disabilities. | [New scene; zoom into the context/setting of one of the people (#1) shown in the collage in the previous scene.] The person (#1) is with a group of people standing and talking to each other (like in a cocktail party / reception setting). We realize that the person (#1) is having difficulty understanding what others are saying. The camera continues to close-up on that person (#1), and we realize that the person (#1) has a cochlear implant and that the surrounding is loud. |
 | 3 | 0:25 - 0:50 | For online meetings and multimedia like videos, podcasts, and music, people with auditory disabilities rely on captions. Captions provide important audio information in text format. For example, captions indicate who is speaking and important sounds, such as the creaking sound of a door in a thriller movie. Many people who use captions also need to adjust the text size, font, and color to make the captions more readable. | [New scene; switch to another person (#2) from the initial collage in the first scene.] We see someone (#2) watching a movie (thriller) and turning on the captions [there is no visible indication that the person (#2) has any disability]. |
 | 4 | 0:50 - 1:10 | While automatic captions are gradually improving, they are currently too inaccurate for reliable use. For example, they don't recognize specialized terms and names, people speaking in videos are not identified, and the sentences can sometimes run together making it hard to keep up. | [Continuation from previous scene.] We see the person (#2) switch to another video, and turn on automatic captions for that second video. The captions are clearly inaccurate (eg. sentence with words that are obviously misheard) and the person (#2) is looking confused / frustrated. |
