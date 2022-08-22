@@ -2,7 +2,7 @@
 title: "Video Scripts for How People with Disabilities Use the Web"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-08-15   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-08-22   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 github:
   repository: w3c/wai-people-use-web-videos
@@ -14,7 +14,7 @@ ref: /people-use-web/videos/   # Translators, do not change this
 description: draft video scripts for the WAI resource "How People with Disabilities Use the Web"
 
 footer: >
-   <p><strong>Date:</strong> Updated 15 August 2022.</p>
+   <p><strong>Date:</strong> Updated 22 August 2022.</p>
 ---
 
 {::nomarkdown}
@@ -42,15 +42,15 @@ This page lists the video scripts for the WAI resource [How People with Disabili
 
 Video scripts for the page [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version):
 
-* Alex
-* Blair
-* Ilya
-* Lee
-* Luis
+* [Alan](stories/alan)
+* [Ian](stories/ian)
+* [Ilya](stories/ilya)
+* [Lee](stories/lee)
+* [Luis](stories/luis)
 * [Martine](stories/martine)
-* Noor
-* Preety
-* Yun
+* [Noor](stories/noor)
+* [Preety](stories/preety)
+* [Yun](stories/yun)
 
 ## Diverse Abilities and Barriers
 
