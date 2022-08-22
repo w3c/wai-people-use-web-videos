@@ -9,12 +9,7 @@ github:
   path: content/index.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
 permalink: /people-use-web/videos/stories/alan/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
 
-ref: /people-use-web/videos/stories/alan/   # Translators, do not change thisQuadriplegic
-* Low dexterity
-* Uses keyboard
-* Uses joystick
-* Uses mouse
-* 
+ref: /people-use-web/videos/stories/alan/   # Translators, do not change this
 
 description: draft video scripts for Alan from the WAI resource "How People with Disabilities Use the Web"
 
