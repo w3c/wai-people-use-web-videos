@@ -2,7 +2,7 @@
 title: "Video Script for Martine"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-09-2   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-09-09   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 github:
   repository: w3c/wai-people-use-web-videos
@@ -14,7 +14,7 @@ ref: /people-use-web/videos/stories/martine/   # Translators, do not change this
 description: draft video scripts for Martine from the WAI resource "How People with Disabilities Use the Web"
 
 footer: >
-   <p><strong>Date:</strong> Updated 2 September 2022.</p>
+   <p><strong>Date:</strong> Updated 9 September 2022.</p>
 
 ---
 
