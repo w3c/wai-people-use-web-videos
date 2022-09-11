@@ -7,9 +7,9 @@ last_updated: 2022-09-09   # Put the date of this translation YYYY-MM-DD (with m
 github:
   repository: w3c/wai-people-use-web-videos
   path: content/index.md    # Add the language shortcode to the middle of the filename, for example: content/index.fr.md
-permalink: /people-use-web/videos/characters/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
+permalink: /people-use-web/videos/cast/   # Add the language shortcode to the end, with no slash at end, for example: /link/to/page/fr
 
-ref: /people-use-web/videos/characters/   # Translators, do not change this
+ref: /people-use-web/videos/cast/   # Translators, do not change this
 
 description: Characters appearing in the videos for the WAI resource "How People with Disabilities Use the Web"
 
