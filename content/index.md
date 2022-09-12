@@ -72,3 +72,11 @@ Video scripts for the page [Tools and Techniques](https://www.w3.org/WAI/people-
 * [Presentation distinguishing and understanding](tools/presentation)
 * [Input typing, writing, and clicking](tools/input)
 * [Interaction navigating and finding](tools/navigation)
+
+## Production Resources
+
+The materials below are to support the video production:
+
+* [Characters](cast)
+* Props
+* Locations
