@@ -28,7 +28,6 @@ Video script for [Physical](https://deploy-preview-113--wai-people-use-web.netli
 
 | Seq. | Time | Audio | Visual |
 | --- | --- | --- | --- |
-
 | 0 | 0:00 - 0:00 | How people with disabilities use the web; pysical disabilities. | [Front plate.] box with the text "Physical Disabilities". |
 | 1 | 0:00 - 0:00 | Physical disabilities affect the motor abilities of people, including weakness and limitations of muscular control, limitations of sensation, joint disorders, pain that impedes movement, and missing limbs. | We see a collage of five people going about their lives in their different settings [they are the protagonists that we will see in the coming scenes]. |
 | 2 | 0:00 - 0:00 | For example, some people do not use a mouse, touch screen, or other pointing devices, and need to carry out all functionality through the keyboard alone. Websites and apps that allow more time for typing support people who need more time and cannot type fast or for longer periods of time. For example, due to reduced muscle strength in the hand; muscle fatigue; repetitve strain injury, or simply difficulty typing. | [New scene; zoom into the context/setting of one of the people (#14) shown in the collage in the previous scene.] We see the person (#14) using a headstick (possibly with celebral palsy or similar) to type on a regular keyboard. |
