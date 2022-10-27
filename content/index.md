@@ -79,4 +79,4 @@ The materials below are to support the video production:
 
 * [Characters](cast)
 * [Props](props)
-* Locations
+* [Locations](locations)
