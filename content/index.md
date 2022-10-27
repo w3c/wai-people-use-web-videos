@@ -78,5 +78,5 @@ Video scripts for the page [Tools and Techniques](https://www.w3.org/WAI/people-
 The materials below are to support the video production:
 
 * [Characters](cast)
-* Props
+* [Props](props)
 * Locations

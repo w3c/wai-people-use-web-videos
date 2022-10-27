@@ -24,52 +24,52 @@ Props required for [How People with Disabilities Use the Web](https://deploy-pre
 
 **[Submit an Issue](https://github.com/w3c/wai-people-use-web-videos/issues/new?title=[Characters])**
 
-| Done? | Video | Prop | Physical | Details of style and functionality |
+| Done? | Video | Prop | Physical? | Details of style and functionality |
 | :---: | ----- | ---- | :------: | ---------------------------------- |
-| [ ]   | [Alan](/videos/stories/alan/) | Keyboard | [x] | |
-| [ ]   | [Alan](/videos/stories/alan/) | Joystick | [x] | |
-| [ ]   | [Alan](/videos/stories/alan/) | Website with poor focus | | |
-| [ ]   | [Alan](/videos/stories/alan/) | Shopping page | | |
-| [ ]   | [Alan](/videos/stories/alan/) | Email with orientation | | |
+| No    | [Alan](/videos/stories/alan/) | Keyboard | Yes | |
+| No    | [Alan](/videos/stories/alan/) | Joystick | Yes | |
+| No    | [Alan](/videos/stories/alan/) | Website with poor focus | | |
+| No    | [Alan](/videos/stories/alan/) | Shopping page | | |
+| No    | [Alan](/videos/stories/alan/) | Email with orientation | | |
 | | | | | |
-| [ ]   | [Ian](/videos/stories/ian/) | Software with update | | |
-| [ ]   | [Ian](/videos/stories/ian/) | Software with submission error | | |
-| [ ]   | [Ian](/videos/stories/ian/) | Recipe page | | |
-| [ ]   | [Ian](/videos/stories/ian/) | Bad recipe page | | |
+| No    | [Ian](/videos/stories/ian/) | Software with update | | |
+| No    | [Ian](/videos/stories/ian/) | Software with submission error | | |
+| No    | [Ian](/videos/stories/ian/) | Recipe page | | |
+| No    | [Ian](/videos/stories/ian/) | Bad recipe page | | |
 | | | | | |
-| [ ]   | [Ilya](/videos/stories/ilya/) | Page with mix content | | |
-| [ ]   | [Ilya](/videos/stories/ilya/) | Mobile phone | | |
-| [ ]   | [Ilya](/videos/stories/ilya/) | Visible wireless headphones | | |
-| [ ]   | [Ilya](/videos/stories/ilya/) | Complex document or spreadsheet | | |
-| [ ]   | [Ilya](/videos/stories/ilya/) | Online conferencing tool | | |
-| [ ]   | [Ilya](/videos/stories/ilya/) | CAPTCHA | | |
+| No    | [Ilya](/videos/stories/ilya/) | Page with mix content | | |
+| No    | [Ilya](/videos/stories/ilya/) | Mobile phone | | |
+| No    | [Ilya](/videos/stories/ilya/) | Visible wireless headphones | | |
+| No    | [Ilya](/videos/stories/ilya/) | Complex document or spreadsheet | | |
+| No    | [Ilya](/videos/stories/ilya/) | Online conferencing tool | | |
+| No    | [Ilya](/videos/stories/ilya/) | CAPTCHA | | |
 | | | | | |
-| [ ]   | [Lee](/videos/stories/lee/) | Colorful clothes website | | |
-| [ ]   | [Lee](/videos/stories/lee/) | Registration website | | |
-| [ ]   | [Lee](/videos/stories/lee/) | Fantasy football app | | |
-| [ ]   | [Lee](/videos/stories/lee/) | Document with highlights | | |
-| [ ]   | [Lee](/videos/stories/lee/) | Chart without symbols | | |
+| No    | [Lee](/videos/stories/lee/) | Colorful clothes website | | |
+| No    | [Lee](/videos/stories/lee/) | Registration website | | |
+| No    | [Lee](/videos/stories/lee/) | Fantasy football app | | |
+| No    | [Lee](/videos/stories/lee/) | Document with highlights | | |
+| No    | [Lee](/videos/stories/lee/) | Chart without symbols | | |
 | | | | | |
-| [ ]   | [Luis](/videos/stories/luis/) | Baskball app | | |
-| [ ]   | [Luis](/videos/stories/luis/) | Ticketing app | | |
+| No    | [Luis](/videos/stories/luis/) | Baskball app | | |
+| No    | [Luis](/videos/stories/luis/) | Ticketing app | | |
 | | | | | |
-| [ ]   | [Martine](/videos/stories/martine/) | Conference tool with chat function | | |
-| [ ]   | [Martine](/videos/stories/martine/) | Lecture with captions | | |
-| [ ]   | [Martine](/videos/stories/martine/) | Poorly structure page of text | | |
+| No    | [Martine](/videos/stories/martine/) | Conference tool with chat function | | |
+| No    | [Martine](/videos/stories/martine/) | Lecture with captions | | |
+| No    | [Martine](/videos/stories/martine/) | Poorly structure page of text | | |
 | | | | | |
-| [ ]   | [Noor](/videos/stories/noor/) | Piece of school work in LMS | | |
-| [ ]   | [Noor](/videos/stories/noor/) | Refreshable Braille device | [x] | |
+| No    | [Noor](/videos/stories/noor/) | Piece of school work in LMS | | |
+| No    | [Noor](/videos/stories/noor/) | Refreshable Braille device | Yes | |
 | | | | | |
-| [ ]   | [Preety](/videos/stories/preety/) | Written text | [x] | |
-| [ ]   | [Preety](/videos/stories/preety/) | Reading exercise book | [x] | |
-| [ ]   | [Preety](/videos/stories/preety/) | e-reader | [x] | |
-| [ ]   | [Preety](/videos/stories/preety/) | Assignment with parts that cannot change | | |
-| [ ]   | [Preety](/videos/stories/preety/) | Complex article | | Displayed in normal and reading mode |
-| [ ]   | [Preety](/videos/stories/preety/) | Structured article | |  |
+| No    | [Preety](/videos/stories/preety/) | Written text | Yes | |
+| No    | [Preety](/videos/stories/preety/) | Reading exercise book | Yes | |
+| No    | [Preety](/videos/stories/preety/) | e-reader | Yes | |
+| No    | [Preety](/videos/stories/preety/) | Assignment with parts that cannot change | | |
+| No    | [Preety](/videos/stories/preety/) | Complex article | | Displayed in normal and reading mode |
+| No    | [Preety](/videos/stories/preety/) | Structured article | |  |
 | | | | | |
-| [ ]   | [Yun](/videos/stories/yun/) | Conference call | | |
-| [ ]   | [Yun](/videos/stories/yun/) | Online newspaper that fails to zoom | | |
-| [ ]   | [Yun](/videos/stories/yun/) | Mobile phone with large apps | | |
-| [ ]   | [Yun](/videos/stories/yun/) | Small banking app | | |
-| [ ]   | [Yun](/videos/stories/yun/) | Subscription form with check button | | |
-| [ ]   | [Yun](/videos/stories/yun/) | Online store | | |
+| No    | [Yun](/videos/stories/yun/) | Conference call | | |
+| No    | [Yun](/videos/stories/yun/) | Online newspaper that fails to zoom | | |
+| No    | [Yun](/videos/stories/yun/) | Mobile phone with large apps | | |
+| No    | [Yun](/videos/stories/yun/) | Small banking app | | |
+| No    | [Yun](/videos/stories/yun/) | Subscription form with check button | | |
+| No    | [Yun](/videos/stories/yun/) | Online store | | |
