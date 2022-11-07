@@ -2,7 +2,7 @@
 title: "Video Script for Visual"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-11-03   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-11-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 github:
   repository: w3c/wai-people-use-web-videos
@@ -14,7 +14,7 @@ ref: /people-use-web/videos/abilities/visual/   # Translators, do not change thi
 description: draft video scripts for Visual from the WAI resource "How People with Disabilities Use the Web"
 
 footer: >
-   <p><strong>Date:</strong> Updated 3 November 2022.</p>
+   <p><strong>Date:</strong> Updated 7 November 2022.</p>
 
 ---
 
