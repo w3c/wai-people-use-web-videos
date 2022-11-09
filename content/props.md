@@ -28,7 +28,8 @@ Props required for [How People with Disabilities Use the Web](https://deploy-pre
 | :---: | ----- | ---- | :------: | ---------------------------------- |
 | No    | [Alan](/videos/stories/alan/) | Keyboard | Yes | |
 | No    | [Alan](/videos/stories/alan/) | Joystick | Yes | |
-| No    | [Alan](/videos/stories/alan/) | Website with poor focus | | |
+| No    | [Alan](/videos/stories/alan/) | Web form with next button | | Short form with text field(s) with a 'Next' button. CLicking 'next' reavels new page with text. Arrow keys can be used to scroll down. |
+| No    | [Alan](/videos/stories/alan/) | Website with poor focus | | From previous; page includes some interactive objects (e.g. links, ) |
 | No    | [Alan](/videos/stories/alan/) | Shopping page | | |
 | No    | [Alan](/videos/stories/alan/) | Email with orientation | | |
 | | | | | |
@@ -39,7 +40,7 @@ Props required for [How People with Disabilities Use the Web](https://deploy-pre
 | | | | | |
 | No    | [Ilya](/videos/stories/ilya/) | Page with mix content | | |
 | No    | [Ilya](/videos/stories/ilya/) | Mobile phone | | |
-| No    | [Ilya](/videos/stories/ilya/) | Visible wireless headphones | | |
+| No    | [Ilya](/videos/stories/ilya/) | Visible wireless headphones | Yes | |
 | No    | [Ilya](/videos/stories/ilya/) | Complex document or spreadsheet | | |
 | No    | [Ilya](/videos/stories/ilya/) | Online conferencing tool | | |
 | No    | [Ilya](/videos/stories/ilya/) | CAPTCHA | | |
