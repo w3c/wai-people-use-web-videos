@@ -2,7 +2,7 @@
 title: "Video Script for Perception"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2022-11-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2022-11-10   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 github:
   repository: w3c/wai-people-use-web-videos
@@ -14,7 +14,7 @@ ref: /people-use-web/videos/tools/perception/   # Translators, do not change thi
 description: draft video scripts for Perception from the WAI resource "How People with Disabilities Use the Web"
 
 footer: >
-   <p><strong>Date:</strong> Updated 7 November 2022.</p>
+   <p><strong>Date:</strong> Updated 10 November 2022.</p>
 
 ---
 
@@ -35,6 +35,6 @@ Video script for [Perception](https://deploy-preview-113--wai-people-use-web.net
 | 4 | 0:00 - 0:00 | People who are deaf-blind also use screen readers to present the information using a device called a refreshable Braille display. Braille characters are a combination of raised or lowered dots, which people read by scanning over them with their fingertips. | [New scene; switch to person (#7/Noor) who is featured in a separate video (see [Noor's script](https://wai-people-use-web-videos.netlify.app/people-use-web/videos/stories/noor/)).] We see the person (#7/Noor) using a portable braille display to read what's on the screen. [We see the screen turned off]. The person (#7/Noor) is scanning the braille display with their finger tips, and switching to the keyboard to type. [This scene is similar to scene in 7 in the [Auditory script](https://wai-people-use-web-videos.netlify.app/people-use-web/videos/abilities/auditory/).] |
 | 5 | 0:00 - 0:00 | Similarly to people who are blind and deaf-blind, people who are Deaf and Hard of Hearing use haptic feedback too; for example, through vibrations alerts on a mobile phone instead of auditory notifications. | [New scene; switch to person (#11); there is no visible indication that the person (#11) has any disability]. We see the phone of the person (#11) vibrating when a notification appears on the screen. The attention of the person #11 is drawn to the phone because of the vibration. |
 | 6 | 0:00 - 0:00 | People who are Deaf and Hard of Hearing also often rely on seeing instead of hearing; for example, by looking at the captions and sign language as an alternative to the audio. | [New scene; switch to person (#6/Martine) who is featured in a separate video (see [Martine's script](https://wai-people-use-web-videos.netlify.app/people-use-web/videos/stories/martine/)).] We see the person (#6/Martine) in an online meeting with sign language interpreters pinned and with captions turned on. This scene is similar to scene 2 in the [Martine script](https://wai-people-use-web-videos.netlify.app/people-use-web/videos/stories/martine/). |
-| 7 | 0:00 - 0:00 | Some people with reading disabilities also convert content into formats they can better understand; for example, to convert text and functionality into symbols. Symbols could be pictures of the words; for example, a picture of an apple instead of the word "apple". They can also be recognizable icons for certain functionality, such as a home icon to symbolize "back to home" functionality, or a cash icon to symbolize "purchase" functionality. | [New scene.] We see the person (#22) using adaptation tools to show symbols instead of text. The focus is more on the symbols on the screen appearing in sequence with the narration rather than on the person. |
+| 7 | 0:00 - 0:00 | Some people with language disabilities use tools to convert content into formats they can better understand; for example, to convert text into symbols. Symbols could be pictures of the words, such as a picture of an apple instead of the word "apple". They can also be recognizable icons for certain functionality, such as a home icon to symbolize "back to home" functionality, or a cash icon to symbolize "purchase" functionality. | [New scene.] We see the person (#22) using adaptation tools to show symbols instead of text. The focus is more on the symbols on the screen appearing in sequence with the narration rather than on the person. Note: this is someone using augmentative and alternative communication (AAC). |
 | 8 | 0:00 - 0:00 | [Individual protagonists:] These are ways to make technology work for me. [Narrator:] Accessibility: It's about people. | [New scene.] We see the five protagonists from the previous scenes. They are looking into the camera as they speak their lines to the viewers [either individually or all at the same time, to be decided]. We see more and more protagonists from the other videos appear on the screen [to illustrate many people] as the narrator speaks their line. [Note: some protagonists might be signing rather than speaking, or speaking with the help of software or hardware tools.] |
 | 9 | 0:00 - 0:00 | For more information on how people with disabilities use the web, visit w3.org/WAI | [End plate.] We see the URL from the narration. |
