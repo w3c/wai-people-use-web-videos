@@ -39,7 +39,7 @@ Props required for [How People with Disabilities Use the Web](https://deploy-pre
 | No    | [Ian](/videos/stories/ian/) | Bad recipe page | | |
 | | | | | |
 | No    | [Ilya](/videos/stories/ilya/) | Page with mix content | | |
-| No    | [Ilya](/videos/stories/ilya/) | Mobile phone | | |
+| No    | [Ilya](/videos/stories/ilya/) | Mobile phone | Yes | |
 | No    | [Ilya](/videos/stories/ilya/) | Visible wireless headphones | Yes | |
 | No    | [Ilya](/videos/stories/ilya/) | Complex document or spreadsheet | | |
 | No    | [Ilya](/videos/stories/ilya/) | Online conferencing tool | | |
