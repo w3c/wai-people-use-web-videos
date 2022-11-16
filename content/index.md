@@ -56,7 +56,6 @@ Video scripts for the page [Stories of Web Users](https://www.w3.org/WAI/people-
 
 Video scripts for the page [Diverse Abilities and Barriers](https://www.w3.org/WAI/people-use-web/abilities-barriers/) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version):
 
-* Diverse abilities
 * [Auditory](abilities/auditory)
 * [Cognitive, learning, and neurological](abilities/cognitive)
 * [Physical](abilities/physical)
@@ -67,7 +66,6 @@ Video scripts for the page [Diverse Abilities and Barriers](https://www.w3.org/W
 
 Video scripts for the page [Tools and Techniques](https://www.w3.org/WAI/people-use-web/tools-techniques/) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version):
 
-* Tools and preferences
 * [Perception - hearing, feeling, and seeing](tools/perception)
 * [Presentation distinguishing and understanding](tools/presentation)
 * [Input typing, writing, and clicking](tools/input)
