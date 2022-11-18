@@ -44,12 +44,12 @@ Video scripts for the page [Stories of Web Users](https://www.w3.org/WAI/people-
 
 * [Alan](stories/alan)
 * [Ian](stories/ian)
-* [Ilya](stories/ilya)
-* [Lee](stories/lee)
-* [Luis](stories/luis)
-* [Martine](stories/martine)
-* [Noor](stories/noor)
-* [Preety](stories/preety)
+* [Hannah (was Ilya)](stories/ilya)
+* [Lexie (was Lee)](stories/lee)
+* [Sophie (was Luis)](stories/luis)
+* [Dhruv (was Martine)](stories/martine)
+* [Marta (was Noor)](stories/noor)
+* [Anil (was Preety)](stories/preety)
 * [Yun](stories/yun)
 
 ## Diverse Abilities and Barriers
