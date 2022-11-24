@@ -49,7 +49,7 @@ Video scripts for the page [Stories of Web Users](https://www.w3.org/WAI/people-
 * [Sophie (was Luis)](stories/luis)
 * [Dhruv (was Martine)](stories/martine)
 * [Marta (was Noor)](stories/noor)
-* [Stephan (was Preety)](stories/preety)
+* [Stefan (was Preety)](stories/preety)
 * [Elias (was Yun)](stories/yun)
 
 ## Diverse Abilities and Barriers

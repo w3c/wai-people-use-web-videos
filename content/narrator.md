@@ -34,7 +34,7 @@ Additional narrations required for [How People with Disabilities Use the Web](ht
 | Stories: Hannah (was Ilya) | Introduction and mid slide | Hannah, an accountant who is blind |
 | Stories: Dhruv (was Martine) | Introduction and mid slide | Dhruv, older adult student who is deaf |
 | Stories: Sophie (was Luis) | Introduction and mid slide | Sophie, basketball fan with Down syndrome |
-| Stories: Marta (was Noor) | Introduction and mid slide | Marta, marketeer who is deaf and blind |
+| Stories: Marta (was Noor) | Introduction and mid slide | Marta, a marketing assistant who is deaf and blind |
 | Stories: Stefan (was Preety) | Introduction and mid slide | Stefan, student with attention deficit hyperactivity disorder and dyslexia |
 | Stories: Elias (was Yun) | Introduction and mid slide | Elias, retiree with low vision, hand tremor and mild short-term memory loss |
 | Stories: Lexie (was Lee) | Introduction and mid slide | Lexie, online shopper who cannot distinguish between colours |
