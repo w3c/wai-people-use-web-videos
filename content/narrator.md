@@ -29,7 +29,7 @@ Additional narrations required for [How People with Disabilities Use the Web](ht
 | All videos | End | Accessibility: It's about people. For more information from the Web Accessibility Initiative on how disabled people use digital technology, visit w3.org/WAI/people |
 | All non-compliation videos | Introduction | How people with disabilities use digital technology, by the W3C Web Accessibility Initiative;
 |||
-| Stories: Abe (was Alan) | Introduction and mid slide | Abe, reporter with limited use of his arms |
+| Stories: Ade (was Alan) | Introduction and mid slide | Ade, reporter with limited use of his arms |
 | Stories: Ian | Introduction and mid slide | Ian, data scientist with autism |
 | Stories: Hannah (was Ilya) | Introduction and mid slide | Hannah, an accountant who is blind |
 | Stories: Dhruv (was Martine) | Introduction and mid slide | Dhruv, older adult student who is deaf |

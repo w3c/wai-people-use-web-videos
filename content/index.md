@@ -42,7 +42,7 @@ This page lists the video scripts for the WAI resource [How People with Disabili
 
 Video scripts for the page [Stories of Web Users](https://www.w3.org/WAI/people-use-web/user-stories/) (in the [2020 Update](https://github.com/w3c/wai-people-use-web/wiki/Persona-development) version):
 
-* [Abe (was Alan)](stories/alan)
+* [Ade (was Alan)](stories/alan)
 * [Ian](stories/ian)
 * [Hannah (was Ilya)](stories/ilya)
 * [Lexie (was Lee)](stories/lee)
