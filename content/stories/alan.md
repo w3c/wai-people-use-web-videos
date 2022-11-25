@@ -1,5 +1,5 @@
 ---
-title: "Video Script for AdeFa (was Alan)"
+title: "Video Script for Ade (was Alan)"
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2022-10-17   # Put the date of this translation YYYY-MM-DD (with month in the middle)
